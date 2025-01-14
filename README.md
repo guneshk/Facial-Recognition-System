@@ -39,7 +39,7 @@ To run this code successfully, you'll need to install several dependencies. Here
 ## Usage
 1.Clone this repository to your local machine:
 ```bash
-  git clone https://github.com/Shaunakk235/facial-recognition.git
+  git clone https://github.com/guneshk/facial-recognition.git
 
 ```
 2.Navigate to the project directory:
